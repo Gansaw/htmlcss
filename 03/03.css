@@ -1,7 +1,8 @@
 * {
     margin: 0px;
     padding: 0px;
-
+    font-family: 'Single Day', cursive;
+    
 }
 
 header {
@@ -60,6 +61,16 @@ article h1{
     margin-right: 30%;
 }
 
+.iconsp{
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    width: 60px;
+    height: 60px;
+    font-size: larger
+}
+    
+
 #a1 img {
     width: 100%;
     border: 5px solid black;
@@ -69,7 +80,7 @@ article h1{
     display: flex;
     justify-content: center;
     align-items: left;
-    
+        
 }
 
 article ul {
