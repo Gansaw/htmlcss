@@ -1,0 +1,13 @@
+#intro p{
+    padding-top: 50px;
+}
+
+footer{
+    display: flex;
+    font-size: 10pt;    
+    justify-content: center;    
+}
+
+footer li{
+    margin-right: 10%;  
+}
