@@ -10,6 +10,11 @@ main h2{
     margin-top: -50px;
 }
 
+#UTSC{
+    width: 80%;
+    height: 500px;
+}
+
 footer ul {
     text-align: center;
     font-size: 10pt;
