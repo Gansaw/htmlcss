@@ -1,5 +1,5 @@
 # K-digital 3기 FrontEnd 수업
-# https://github.com/Gansaw/htmlcss
+# https://gansaw.github.io/htmlcss/
 
 + 23.04.09 : 나만의 홈페이지 만들기
 + 23.04.07 : pico를 이용하여 홈페이지 만들기
