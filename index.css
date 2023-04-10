@@ -4,7 +4,7 @@
 }
 
 header {
-    background-image: url("https://kdp.pusan.ac.kr/images/front/biz_intro_1.png");
+    background-image:url(./image/cloud.jpg);
     background-size: cover;
     left: 0;
     top: 0;
@@ -18,7 +18,7 @@ header {
 }
 
 header hgroup {
-    margin-top: -70px;
+    margin-top: -72px;
     text-align: center;
 }
 
